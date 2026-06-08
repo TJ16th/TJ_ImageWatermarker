@@ -1,0 +1,16 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Local test assets
+test-input/
+
+# Local installers/scripts
+dotnet-install.ps1
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
