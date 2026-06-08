@@ -1,0 +1,2 @@
+F:\vscode\sukashi\WatermarkApp\bin\Release\net8.0-windows\win-x64\publish\WaterMarker.pdb
+F:\vscode\sukashi\WatermarkApp\bin\Release\net8.0-windows\win-x64\publish\WaterMarker.exe
